@@ -17,3 +17,5 @@ A simple and easy-to-use web app to compress image files in the browser using Re
 - React.js  
 - Tailwind CSS  
 - browser-image-compression (npm package)
+# Demo
+![Screenshot](Screenshot.png)
